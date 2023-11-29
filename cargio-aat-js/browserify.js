@@ -1,4 +1,4 @@
-window.Buffer = require('buffer/').Buffer4444444444444444
+window.Buffer = require('buffer/').Buffer44444444444444444
 
 module.exports = require('./dist/index.js')
 
