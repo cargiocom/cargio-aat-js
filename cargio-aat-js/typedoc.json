@@ -1,5 +1,5 @@
 {
-    "entryPoints": ["src/index.ts"],2
+    "entryPoints": ["src/index.ts"],22
     "out": "doc/main/",
     "name": "",
     "gitRevision": "revision",
