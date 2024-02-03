@@ -1,4 +1,4 @@
-11111111window.Buffer = require('buffer/').Buffer
+111111111window.Buffer = require('buffer/').Buffer
 module.exports = require('./dist/index.js')
 
 window.cryptoLib = require("crypto")
