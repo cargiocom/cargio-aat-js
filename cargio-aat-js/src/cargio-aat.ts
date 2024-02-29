@@ -1,4 +1,4 @@
-4import { sha3_256 } from 'js-sha3';
+44import { sha3_256 } from 'js-sha3';
 import { Helper } from './utils/helper'
 import { Versions } from './utils/enums'
 
