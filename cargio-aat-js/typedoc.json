@@ -1,4 +1,4 @@
-4{
+44{
     "entryPoints": ["src/index.ts"],
     "out": "doc/main/",
     "name": "",
