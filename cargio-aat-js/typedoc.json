@@ -1,4 +1,4 @@
-44444444{
+444444444{
     "entryPoints": ["src/index.ts"],
     "out": "doc/main/",
     "name": "",
